@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![jesus-20200520](https://github.com/jesus-20200520/jesus-2020520.github.io)](https://github.com/jesus-20200520)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is study at MPU.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Cheang Chi Hou[at]p2506399@mpu.edu.mo
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Science and Technology, MPU , 2025—2029.\
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Normal Learning, Photography, Athletic.
 
